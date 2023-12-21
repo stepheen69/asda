@@ -1,0 +1,92 @@
+C:\3B\ITDBSYS31\Order\Order\bin\Debug\Order.exe
+C:\3B\ITDBSYS31\Order\Order\bin\Debug\Order.exe.config
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.csproj.SuggestedBindingRedirects.cache
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.Delivery_Driver.resources
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.Login.resources
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.SignupForm.resources
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.User.resources
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.exe
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.pdb
+C:\3B\ITDBSYS31\Order\Order\bin\Debug\Order.pdb
+C:\3B\ITDBSYS31\Order\Order\bin\Debug\EntityFramework.dll
+C:\3B\ITDBSYS31\Order\Order\bin\Debug\EntityFramework.xml
+C:\3B\ITDBSYS31\Order\Order\obj\Debug\Order.csproj.CopyComplete
+C:\Users\Select Wallpaper\Downloads\Order\Order\bin\Debug\Order.exe.config
+C:\Users\Select Wallpaper\Downloads\Order\Order\bin\Debug\Order.exe
+C:\Users\Select Wallpaper\Downloads\Order\Order\bin\Debug\Order.pdb
+C:\Users\Select Wallpaper\Downloads\Order\Order\bin\Debug\EntityFramework.dll
+C:\Users\Select Wallpaper\Downloads\Order\Order\bin\Debug\EntityFramework.xml
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.Admin.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.Delivery_Driver.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.Login.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.SignupForm.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.User.resources
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.csproj.CopyComplete
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.exe
+C:\Users\Select Wallpaper\Downloads\Order\Order\obj\Debug\Order.pdb
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\Order.exe.config
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\Order.exe
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\Order.pdb
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\EntityFramework.dll
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\Guna.UI2.dll
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\bin\Debug\EntityFramework.xml
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.Admin.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.DeliveryDriver.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.Login.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.Seller.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.SignupForm.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.User.resources
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.csproj.CopyComplete
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.exe
+C:\Users\Select Wallpaper\Downloads\New folder (3)\Order\Order\obj\Debug\Order.pdb
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\Order.exe.config
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\Order.exe
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\Order.pdb
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\EntityFramework.dll
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\Guna.UI2.dll
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\bin\Debug\EntityFramework.xml
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.csproj.SuggestedBindingRedirects.cache
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.Admin.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.DeliveryDriver.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.Login.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.Seller.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.SignupForm.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.User.resources
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.csproj.CopyComplete
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.exe
+C:\3B\ITDBSYS31\FINSYSTEM\Order[Latest]\Order\Order\obj\Debug\Order.pdb
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.Admin.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.DeliveryDriver.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.Login.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.Seller.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.SignupForm.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.User.resources
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.exe
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.pdb
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\Order.exe.config
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\Order.exe
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\Order.pdb
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\EntityFramework.dll
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\Guna.UI2.dll
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\bin\Debug\EntityFramework.xml
+C:\Users\steph\Downloads\Order[Latest] (1)\Order[Latest]\Order\Order\obj\Debug\Order.csproj.CopyComplete
